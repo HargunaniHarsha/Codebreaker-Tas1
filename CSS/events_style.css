@@ -1,0 +1,46 @@
+.container {
+    font-size: 18px;
+}
+
+.btn-outline-info {
+    color: aqua;
+    border-color: aqua;
+}
+
+.p-3 {
+    padding: 3px !important;
+}
+
+.bg-dark {
+    background-color: black !important;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 30%;
+    /* top: 30%;
+    bottom: 30%; */
+    right: 15%;
+    left: 15%;
+    padding-top: 1.25 rem;
+    padding-bottom: 1.25 rem;
+    color: #fff;
+    text-align: left;
+}
+
+main {
+    background-color: black;
+}
+
+.event_imag {
+    width: 300px;
+    height: 300px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#even_carousel {
+    text-align: right;
+}

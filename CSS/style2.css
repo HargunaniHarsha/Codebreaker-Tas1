@@ -1,0 +1,138 @@
+.container {
+    font-size: 18px;
+}
+
+.btn-outline-info {
+    color: aqua;
+    border-color: aqua;
+}
+
+.p-3 {
+    padding: 3px !important;
+}
+
+.bg-dark {
+    background-color: black !important;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 40%;
+    /* top: 30%;
+    bottom: 30%; */
+    right: 15%;
+    left: 15%;
+    padding-top: 1.25 rem;
+    padding-bottom: 1.25 rem;
+    color: #fff;
+    text-align: center;
+}
+
+main {
+    background-color: black;
+}
+
+.row {
+    padding: 10px;
+}
+
+.card {
+    background-color: rgb(0, 0, 0);
+    padding-top: 50px;
+}
+
+.card-title {
+    color: aqua;
+}
+
+.card-body,
+.card-header {
+    color: white
+}
+
+.text-muted {
+    color: rgba(255, 255, 255, 0.555);
+}
+
+#footer-card-1,
+#footer-card-2,
+#card-detail-1,
+#card-detail-2 {
+    background-color: rgb(29, 29, 29);
+}
+
+#card-detail-1,
+#card-detail-2 {
+    height: 250px !important;
+}
+
+.img-fluid {
+    height: 250px;
+    width: 200px;
+}
+
+
+/* Events */
+
+.Event_box {
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.custom_headings_2 {
+    margin: 8%;
+    color: aqua;
+    text-align: center;
+}
+
+.table {
+    font-size: large;
+}
+
+
+/* Tutorials */
+
+#tutorial_1,
+#tutorial_2,
+#tutorial_3 {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 8%;
+}
+
+.featurette-heading {
+    color: white;
+    font-size: 20px;
+}
+
+.lead {
+    color: rgb(202, 202, 202);
+}
+
+
+/* Achievements */
+
+.achievements_section {
+    margin-top: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.marketing .col-lg-4 {
+    margin-bottom: 1.5 rem;
+    text-align: center;
+}
+
+.bd-placeholder-img {
+    width: 160px;
+    height: 150px;
+}
+
+.achievement_body {
+    color: rgb(202, 202, 202);
+}
+
+.achievement_heading {
+    color: white;
+}
